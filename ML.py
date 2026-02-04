@@ -118,7 +118,7 @@ CUDA check
 
 # 3. Install Dependencies (rasterio, geopandas, shapely, networkx if needed)
 
-!pip install rasterio shapely fiona pyproj --quiet
+
 !pip install geopandas --quiet
 !pip install scikit-image --quiet
 !pip install tqdm --quiet
